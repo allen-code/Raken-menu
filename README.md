@@ -1,0 +1,1 @@
+echo "# Raken-menu" >> README.md
